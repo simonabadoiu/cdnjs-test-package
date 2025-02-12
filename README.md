@@ -1,4 +1,3 @@
-# hi-sven
+# cdnjs-test-package
 
-hihi
-hi
+halloooo
