@@ -1,3 +1,3 @@
 # cdnjs-test-package
 
-halloooo
+halloooo add new version
